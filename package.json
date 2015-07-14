@@ -1,0 +1,25 @@
+{
+  "name": "gumboot",
+  "version": "1.0.0",
+  "description": "jQuery plugin that extracts key:value pairs from an element and attaches it to said element as a javascript object. Includes a callback setting to allow handling the data as necessary.",
+  "main": "gumboot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "data",
+    "plugin"
+  ],
+  "author": "Zachary Watkins",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachWatkins/Gumboot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZachWatkins/Gumboot/issues"
+  },
+  "homepage": "https://github.com/ZachWatkins/Gumboot#readme"
+}
